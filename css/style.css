@@ -1,0 +1,50 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row{
+    margin:0 auto;
+    width: 1200px;
+    margin-top:20px;
+}
+header.row{
+    height: 150px;
+    background-color: darkorchid;
+}
+.jumbo{
+    height: 650px;
+    background-color:goldenrod;
+}
+.main{
+    height: 650px;
+    background-color:darkturquoise;
+}
+.top{
+    height: 80px;
+    width: 100%;
+    background-color: teal;
+    margin-bottom:20px;
+}
+.laterale{
+    width: 290px;
+    height: 520px;
+    background-color: teal;
+    float: left;
+}
+.centrale{
+    float: left;
+    height: 520px;
+    background-color: teal;
+    width: 580px;
+    margin:0 20px;
+}
+
+
+
+footer.row{
+    margin-bottom: 20px;
+    height: 100px;
+    background-color: navy;
+}
